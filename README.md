@@ -1,2 +1,2 @@
 # silicon.io
-Silicon
+Lee Shichi
